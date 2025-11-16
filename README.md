@@ -1,5 +1,5 @@
 # Task-Keeper-
-This web app is a v1.0 of my To Do list app.
+This web app is the v1.0 of my To Do list app.
 Once a task is entered in the input space, the 'Add' button automatically adds the task to the list when clicked.
 Each task can be marked as done or complete when clicked. A red line strikes through the completed task and its color turns gray.
 The delete button can be used to remove any task from the list.
